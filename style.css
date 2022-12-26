@@ -1,0 +1,23 @@
+body{
+    background-image: url(/images/blob.svg);
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 900px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+}
+.weather{
+    color: rgb(163, 56, 56);
+    background-color: rgb(122, 22, 22);
+    filter: opacity(62%);
+}
+
+.card {
+    margin: 0 auto;
+    float: none; 
+    margin-bottom: 10px; 
+    background-color: beige;
+    border-radius: 5%;
+    filter: drop-shadow(0 0 0.2rem rgb(36, 58, 62));
+  }
+
+
